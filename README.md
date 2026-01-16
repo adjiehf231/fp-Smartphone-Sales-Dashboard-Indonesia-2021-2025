@@ -1,26 +1,31 @@
-<<<<<<< HEAD
-# 📊 Sales Dashboard Smartphone (Power BI)
+# 📊 Smartphone Sales Dashboard Indonesia (2021–2025)
 
-## 📌 Deskripsi Proyek
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![Data Analytics](https://img.shields.io/badge/Role-Data%20Analyst-blue)
 
-Proyek ini merupakan **dashboard analisis penjualan smartphone** yang dibangun menggunakan **Microsoft Power BI**.
-Dashboard ini bertujuan untuk membantu stakeholder memahami **kinerja penjualan, tren pertumbuhan, performa produk, brand, wilayah, serta perilaku pelanggan** secara interaktif dan berbasis data.
+## 📌 Project Overview
 
-Dataset yang digunakan berisi data transaksi penjualan smartphone dari berbagai **produk, brand, provinsi, dan periode waktu**.
+Proyek ini merupakan **dashboard analisis penjualan smartphone di Indonesia** yang dibangun menggunakan **Microsoft Power BI**.
+Dashboard ini dirancang untuk membantu stakeholder memahami **kinerja penjualan, tren pertumbuhan, performa produk & brand, distribusi wilayah, serta perilaku pelanggan** secara **visual, interaktif, dan berbasis data**.
+
+📅 **Periode Data:** 2021 – 2025
+🌍 **Cakupan:** Seluruh provinsi di Indonesia
+
+🌍 **Dataset Dummy**
 
 ---
 
-## 🎯 Tujuan Analisis
+## 🎯 Business Objectives
 
-Dashboard ini menjawab beberapa pertanyaan bisnis utama, antara lain:
+Dashboard ini bertujuan untuk menjawab pertanyaan bisnis berikut:
 
 - Bagaimana **tren penjualan dari tahun ke tahun (YoY)**?
-- Produk dan brand mana yang **paling laris** berdasarkan **quantity** dan **revenue**?
+- Produk dan brand mana yang **paling laris** berdasarkan quantity & revenue?
 - Provinsi mana yang memberikan **kontribusi pendapatan terbesar**?
 - Bagaimana **pertumbuhan penjualan produk (Product YoY Growth)**?
-- Bagaimana gambaran **performa pelanggan** dan **rata-rata nilai transaksi**?
-
----
+- Bagaimana **performa pelanggan dan nilai transaksi rata-rata**?
+  ---
 
 ## 🧩 Fitur Dashboard
 
@@ -102,15 +107,22 @@ Beberapa teknik yang digunakan:
 
 ---
 
-## 📁 Struktur File
+## 📁 Project Structure
 
-📦 Sales Dashboard Smartphone
-
-┣ 📊 Sales Dashboard HP.pbix
-
-┣ 📄 Sales Dashboard HP.pdf
-
-┗ 📄 README.md
+fp-Smartphone-Sales-Dashboard-Indonesia-2021-2025/
+│
+├── dashboard/
+│ ├── Sales Dashboard HP.pbix
+│ └── Sales Dashboard HP.pdf
+│
+├── presentation/
+│ └── Sales_Dashboard_Smartphone_Presentation.pptx
+│
+├── data/
+│ └── smartphone_sales.csv
+│
+├── README.md
+└── .gitignore
 
 ---
 
@@ -134,7 +146,3 @@ _Data Analyst | Data Scientis_
 ## 📜 Lisensi
 
 Proyek ini dibuat untuk **keperluan pembelajaran dan portofolio**.
-=======
-# fp-Smartphone-Sales-Dashboard-Indonesia-2021-2025
-Fortofolio Project Smartphone Sales Dashboard – Indonesia 2021‑2025 with Power BI, Disclaimer!!! this project use dataset dummy
->>>>>>> e8df329e2a81493141fc7b5e635042120f8daaed
