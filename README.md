@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Sales Dashboard Smartphone (Power BI)
 
 ## 📌 Deskripsi Proyek
@@ -133,3 +134,7 @@ _Data Analyst | Data Scientis_
 ## 📜 Lisensi
 
 Proyek ini dibuat untuk **keperluan pembelajaran dan portofolio**.
+=======
+# fp-Smartphone-Sales-Dashboard-Indonesia-2021-2025
+Fortofolio Project Smartphone Sales Dashboard – Indonesia 2021‑2025 with Power BI, Disclaimer!!! this project use dataset dummy
+>>>>>>> e8df329e2a81493141fc7b5e635042120f8daaed
